@@ -1,0 +1,2 @@
+$ python -c "import EmotionDetection; print(EmotionDetection.__name__)"
+EmotionDetection
